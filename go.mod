@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/AlecAivazis/survey/v2 v2.2.8
 	github.com/MakeNowJust/heredoc v1.0.0
-	github.com/briandowns/spinner v1.12.0
+	github.com/briandowns/spinner v1.15.0
 	github.com/charmbracelet/glamour v0.2.1-0.20200724174618-1246d13c1684
 	github.com/google/go-cmp v0.5.5
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
