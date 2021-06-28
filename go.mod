@@ -3,7 +3,7 @@ module github.com/cli/cli
 go 1.13
 
 require (
-	github.com/AlecAivazis/survey/v2 v2.2.8
+	github.com/AlecAivazis/survey/v2 v2.2.13
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/briandowns/spinner v1.12.0
 	github.com/charmbracelet/glamour v0.2.1-0.20200724174618-1246d13c1684
