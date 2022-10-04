@@ -4,7 +4,7 @@
     "build": "rm -rf lib && ncc build src/index.ts -o lib"
   },
   "dependencies": {
-    "@actions/core": "^1.2.0",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^1.1.0",
     "node-fetch": "^2.6.7"
   },
