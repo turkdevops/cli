@@ -11,7 +11,7 @@ require (
 	github.com/mattn/go-isatty v0.0.9
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/spf13/cobra v0.0.5
+	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
 	github.com/vilmibm/go-termd v0.0.4
 	golang.org/x/crypto v0.0.0-20190530122614-20be4c3c3ed5
